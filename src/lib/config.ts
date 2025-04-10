@@ -1,12 +1,12 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
-    name: "Nextjs Blog Template",
-    description: "Nextjs Blog Template",
+    title: "YuenDesign",
+    name: "YuenDesign",
+    description: "Product Designer of SaaS and AI",
     keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
-    url: "https://xxx.com",
-    baseUrl: "https://xxx.com",
-    image: "https://xxx.com/og-image.png",
+    url: "https://nextjs-blog-template-zeta.vercel.app/",
+    baseUrl: "https://nextjs-blog-template-zeta.vercel.app/",
+    image: "https://cloud.dify.ai/logo/logo.png",
     favicon: {
       ico: "/favicon.ico",
       png: "/favicon.png",
@@ -25,9 +25,9 @@ export const config = {
     },
   },
   author: {
-    name: "Your Name",
-    email: "your.email@example.com",
-    bio: "这是一个 Nextjs 博客模板",
+    name: "Yuen",
+    email: "yicha0818@gmail.com",
+    bio: "practise makes perfect",
   },
   social: {
     github: "https://github.com/xxx",
