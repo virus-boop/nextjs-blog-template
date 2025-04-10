@@ -3,10 +3,10 @@ export const config = {
     title: "YuenDesign",
     name: "YuenDesign",
     description: "Product Designer of SaaS and AI",
-    keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
+    keywords: ["SaaS", "AI", "Design", "Portfolio","ToB"],
     url: "https://nextjs-blog-template-zeta.vercel.app/",
     baseUrl: "https://nextjs-blog-template-zeta.vercel.app/",
-    image: "https://avatars.githubusercontent.com/u/64490791?s=48&v=4",
+    image: "https://nextjs-blog-template-zeta.vercel.app/og-image.png",
     favicon: {
       ico: "/favicon.ico",
       png: "/favicon.png",
@@ -16,7 +16,7 @@ export const config = {
     manifest: "/site.webmanifest",
     rss: {
       title: "YuenDesign",
-      description: "Thoughts on Full-stack development, AI",
+      description: "Product Designer of SaaS and AI",
       feedLinks: {
         rss2: "/rss.xml",
         json: "/feed.json",
@@ -27,17 +27,24 @@ export const config = {
   author: {
     name: "Yuen",
     email: "yicha0818@gmail.com",
-    bio: "practise makes perfect",
+    bio: "Keep Learning, Keep Creating",
   },
   social: {
-    github: "https://github.com/xxx",
-    x: "https://x.com/xxx",
+    linktree: "https://linktr.ee/yichadesign",
+    github: "https://github.com/virus-boop",
+    x: "https://x.com/yichadesign",
     xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
     wechat: "https://storage.xxx.com/images/wechat-official-account.png",
+    Newsletter: "https://yicha.zhubai.love",
+    AIToolbox: "https://yicha.notion.site/yicha/YICHA-AI-c99d3324f868459a8eaa65dc13ba5ec6",
+    Figma: "https://tr.ee/NjRafFv0wT",
+    Jike: "https://okjk.co/Fg3Yxo",
+    RED: "https://www.xiaohongshu.com/user/profile/5ee82bdc0000000001001b75?xhsshare=CopyLink&appuid=5ee82bdc0000000001001b75&apptime=1665153210",
+    Instagram: "https://tr.ee/PKUij8K4w3",  
     buyMeACoffee: "https://www.buymeacoffee.com/xxx",
   },
   giscus: {
-    repo: "guangzhengli/hugo-ladder-exampleSite",
+    repo: "yuen-personalsite",
     repoId: "R_kgDOHyVOjg",
     categoryId: "DIC_kwDOHyVOjs4CQsH7",
   },
@@ -58,7 +65,7 @@ export const config = {
     ],
   },
   seo: {
-    metadataBase: new URL("https://xxx.com"),
+    metadataBase: new URL("https://nextjs-blog-template-zeta.vercel.app/"),
     alternates: {
       canonical: './',
     },
@@ -68,7 +75,7 @@ export const config = {
     },
     twitter: {
       card: "summary_large_image" as const,
-      creator: "@xxx",
+      creator: "@yichadesign",
     },
   },
 };
