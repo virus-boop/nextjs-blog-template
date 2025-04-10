@@ -1,3 +1,12 @@
+---
+title: GPT 应用开发和思考
+date: 2025-04-05T21:10:00+08:00
+updated: 2025-04-05T21:10:00+08:00
+keywords: ["hello", "world"]
+featured: true
+summary: "这是一个 Nextjs 博客模板，本文会介绍这个模板的一些基本用法"
+---
+
 # GPT 应用开发和思考
 
 2023年7年31日 · 8220 字
