@@ -6,7 +6,7 @@ export const config = {
     keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
     url: "https://nextjs-blog-template-zeta.vercel.app/",
     baseUrl: "https://nextjs-blog-template-zeta.vercel.app/",
-    image: "https://cloud.dify.ai/logo/logo.png",
+    image: "https://avatars.githubusercontent.com/u/64490791?s=48&v=4",
     favicon: {
       ico: "/favicon.ico",
       png: "/favicon.png",
@@ -15,7 +15,7 @@ export const config = {
     },
     manifest: "/site.webmanifest",
     rss: {
-      title: "Nextjs Blog Template",
+      title: "YuenDesign",
       description: "Thoughts on Full-stack development, AI",
       feedLinks: {
         rss2: "/rss.xml",
