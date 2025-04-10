@@ -15,7 +15,7 @@ export const config = {
     },
     manifest: "/site.webmanifest",
     rss: {
-      title: "YuenDesign",
+      title: "Nextjs Blog Template",
       description: "Thoughts on Full-stack development, AI",
       feedLinks: {
         rss2: "/rss.xml",
@@ -27,12 +27,12 @@ export const config = {
   author: {
     name: "Yuen",
     email: "yicha0818@gmail.com",
-    bio: "持续输入，持续创造",
+    bio: "practise makes perfect",
   },
   social: {
     github: "https://github.com/xxx",
     x: "https://x.com/xxx",
-    xiaohongshu: "https://www.xiaohongshu.com/user/profile/5ee82bdc0000000001001b75",
+    xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
     wechat: "https://storage.xxx.com/images/wechat-official-account.png",
     buyMeACoffee: "https://www.buymeacoffee.com/xxx",
   },
@@ -47,22 +47,18 @@ export const config = {
         title: "作品", 
         href: "/blog",
       },
-    ],
-    main: [
       { 
         title: "文章", 
         href: "/blog",
       },
-    ],
-    main: [
       { 
-        title: "创造", 
+        title: "工具", 
         href: "/blog",
       },
     ],
   },
   seo: {
-    metadataBase: new URL("https://nextjs-blog-template-zeta.vercel.app/"),
+    metadataBase: new URL("https://xxx.com"),
     alternates: {
       canonical: './',
     },
