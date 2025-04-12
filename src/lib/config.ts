@@ -51,15 +51,11 @@ export const config = {
   navigation: {
     main: [
       { 
-        title: "作品", 
-        href: "/blog",
-      },
-      { 
         title: "文章", 
         href: "/blog",
       },
       { 
-        title: "工具", 
+        title: "提示词", 
         href: "/blog",
       },
     ],
